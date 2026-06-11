@@ -153,7 +153,6 @@
         "item_pUAUTj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1778583924_1778504886_phpjds3spplhjvj7b99UY0.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Adjustable Tint Technology",
@@ -200,7 +199,6 @@
         "item_7ffkaP": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1778583924_1778504885_phpfgmj8mc5b8s41kCl6gP.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Premium Style & Protection",
@@ -231,7 +229,6 @@
         "image_JgDLTQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1778583924_6c2088429968ff412a937e8d513d68821b87554c.gif",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -338,6 +335,31 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "1781219123f61eba05": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_xd6yDR": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_xd6yDR"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -348,6 +370,7 @@
     "images_with_text_scrolling_HnL6DC",
     "slideshow_Pk7FBg",
     "faq_hnHpnX",
-    "17789057653ac76002"
+    "17789057653ac76002",
+    "1781219123f61eba05"
   ]
 }

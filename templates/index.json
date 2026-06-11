@@ -185,13 +185,6 @@
             "content": "<p>Yes, we offer premium-quality wearable products designed for comfort, durability, and performance.</p>"
           }
         },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "How can I contact you?",
-            "content": "<p> You can contact our support team anytime At Whatsapp for help with orders, products, or general inquiries.</p>"
-          }
-        },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
@@ -202,7 +195,6 @@
       },
       "block_order": [
         "166442457738b23caf-0",
-        "166442457738b23caf-1",
         "166442457738b23caf-2"
       ],
       "settings": {

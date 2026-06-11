@@ -85,7 +85,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#b7ada1",
         "background_gradient": "",
         "text_color": "#f0f0f0",
         "text_gradient": ""
@@ -97,7 +97,7 @@
         "heading_aEw9Mn": {
           "type": "heading",
           "settings": {
-            "text": "At Wearable",
+            "text": "At Aveline",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -106,7 +106,7 @@
         "richtext_NPgcHm": {
           "type": "richtext",
           "settings": {
-            "content": "<p><br/>we bring you the latest wearable technology designed to fit your lifestyle. From smartwatches and fitness trackers to wireless accessories, our goal is to combine style, comfort, and innovation in every product. We’re committed to offering high-quality wearables, great prices, and excellent customer service to help you stay connected, active, and ahead of the trend.<br/><br/></p>"
+            "content": "<p>We bring you carefully selected beauty and self-care products designed to make your daily routine easier, smoother, and more enjoyable. Our store focuses on quality, comfort, and products that help you feel confident in your own beauty.</p><p>From skincare essentials to beauty tools, we choose items that are practical, easy to use, and suitable for everyday self-care. We are here to offer you a simple shopping experience, trusted products, and fast delivery across Lebanon.</p>"
           }
         }
       },
@@ -129,12 +129,12 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Delivery All Over Lebanon",
+        "text": "Free Delivery For Orders More Than 29.99$",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#b7ada1",
         "background_gradient": "",
         "text_color": "#f0f0f0",
         "text_gradient": ""

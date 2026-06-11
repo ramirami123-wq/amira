@@ -37,7 +37,7 @@
         "liquid_8BBykj": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🕶️ Adjustable Tint Technology</span> – Easily adapt your lenses to different lighting conditions for maximum comfort and visibility.<br><br>\n\n<span style=\"font-weight: bold;\">☀️ UV400 Sun Protection</span> – Protect your eyes from harmful UV rays and reduce glare while outdoors.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Stylish & Durable Design</span> – Premium aluminum alloy frame with a modern luxury look made for everyday wear.\n</div>"
+            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">☀️ SPF50+ Sun Protection</span> – Helps protect your skin from harmful UV rays during daily outdoor exposure.<br><br>\n\n<span style=\"font-weight: bold;\">🌾 Rice + Probiotics Formula</span> – Enriched with rice extract and probiotics to support a smoother, healthier-looking complexion.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Lightweight Daily Finish</span> – Comfortable texture that blends easily into the skin without feeling heavy or greasy.\n</div>"
           }
         },
         "rating": {
@@ -129,7 +129,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#b7ada1",
         "background_gradient": "",
         "text_color": "#f0f0f0",
         "text_gradient": ""
@@ -141,10 +141,11 @@
         "item_pUAUTj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1777472609_phpvnv3beod33ji9SOe3tq.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Adjustable Tint Technology",
-            "content": "<p>Experience clear vision in every environment with lenses that adapt to changing light conditions for maximum comfort.</p><h3></h3>"
+            "title": "Daily Sun Protection You Can Trust",
+            "content": "<p>Protect your skin every day with a lightweight SPF50+ formula designed for comfortable wear. It helps shield against harmful UV rays while leaving your skin feeling fresh, smooth, and protected.</p><h3></h3><h3></h3>"
           }
         }
       },
@@ -175,7 +176,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#b7ada1",
         "background_gradient": "",
         "text_color": "#f0f0f0",
         "text_gradient": ""
@@ -187,10 +188,11 @@
         "item_7ffkaP": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1777472610_php3loeqehejhuf7GJ7CYZ.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Premium Style & Protection",
-            "content": "<p>Designed with a durable aluminum frame and UV400 protection to keep you stylish while protecting your eyes outdoors.</p>"
+            "title": "Nourishing Korean Skincare Formula",
+            "content": "<p><br/>Infused with rice extract and probiotics, this sunscreen does more than protect. Its skin-loving ingredients help support a healthy-looking complexion while providing a soft, non-greasy finish perfect for everyday use. <br/><br/></p>"
           }
         }
       },
@@ -211,33 +213,21 @@
         "heading_gradient": ""
       }
     },
+    "custom_liquid_DcWLdT": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"margin: 20px 0; font-family: Arial, sans-serif;\">\n  <table style=\"width: 100%; border-collapse: collapse; text-align: center; font-size: 15px;\">\n    <thead>\n      <tr style=\"background-color: #B7ADA1; color: white;\">\n        <th style=\"padding: 12px; border: 1px solid #ddd;\">Benefits</th>\n        <th style=\"padding: 12px; border: 1px solid #ddd;\">Us</th>\n        <th style=\"padding: 12px; border: 1px solid #ddd;\">Others</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">SPF50+ Daily Protection</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">Yes</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">No</td>\n      </tr>\n      <tr style=\"background-color: #f8f5f2;\">\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">Lightweight Non-Greasy Feel</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">Yes</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">No</td>\n      </tr>\n      <tr>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">Rice + Probiotics Formula</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">Yes</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">No</td>\n      </tr>\n      <tr style=\"background-color: #f8f5f2;\">\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">Comfortable Everyday Use</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">Yes</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">No</td>\n      </tr>\n    </tbody>\n  </table>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_Pk7FBg": {
       "type": "slideshow",
-      "blocks": {
-        "image_JgDLTQ": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 400,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 21,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_JgDLTQ"
-      ],
       "name": "Slideshow",
       "settings": {
         "full_width": true,
@@ -258,29 +248,29 @@
         "item_Wg8g8E": {
           "type": "item",
           "settings": {
-            "title": "How does the adjustable tint work?",
-            "content": "<p><br/>The lenses adapt to different lighting conditions, helping reduce glare and improve visibility outdoors.<br/></p>"
+            "title": "What is the SPF rating of this sunscreen?",
+            "content": "<p>It features <strong>SPF50+ PA++++</strong> protection to help shield your skin from daily sun exposure.</p>"
           }
         },
         "item_8yizQD": {
           "type": "item",
           "settings": {
-            "title": "Are the sunglasses suitable for both men and women?",
-            "content": "<p><br/>Yes, the modern round design is made to suit both men and women.<br/><br/></p>"
+            "title": "What are the key ingredients?",
+            "content": "<p>It contains <strong>rice extract</strong> and <strong>probiotics</strong>, known for supporting healthy-looking skin.</p>"
           }
         },
         "item_Apj6NA": {
           "type": "item",
           "settings": {
-            "title": "Do these sunglasses provide UV protection?",
-            "content": "<p><br/>Yes, the sunglasses offer UV400 protection against harmful sun rays.<br/><br/></p>"
+            "title": "Is it suitable under makeup?",
+            "content": "<p>Yes, its lightweight texture makes it a great base for makeup application.</p>"
           }
         },
         "item_tK9h6f": {
           "type": "item",
           "settings": {
-            "title": "What material is the frame made from?",
-            "content": "<p>The frame is made from durable aluminum alloy for long-lasting comfort and strength.</p>"
+            "title": "When should I apply sunscreen?",
+            "content": "<p>Apply it as the final step of your morning skincare routine before sun exposure.</p>"
           }
         }
       },
@@ -356,6 +346,7 @@
     "images_with_text_scrolling_Ane7LP",
     "scrolling_text_qBXBG4",
     "images_with_text_scrolling_HnL6DC",
+    "custom_liquid_DcWLdT",
     "slideshow_Pk7FBg",
     "faq_hnHpnX",
     "17789057653ac76002",
